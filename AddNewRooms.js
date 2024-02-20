@@ -212,7 +212,7 @@ let containerSelectionImages = document.querySelector(
 for (let i = 1; i <= 6; i++) {
   let newImage = `
 <div class="cardImage">
-<img src="../images/${i}.jpg" alt="">
+<img src="images/${i}.jpg" alt="">
 <span>${i}</span>
 </div>
 `;
